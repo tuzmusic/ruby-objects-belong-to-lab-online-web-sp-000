@@ -9,11 +9,5 @@ class Artist
     @artist.name
   end
 
-  def artist
-    @artist
-  end
 
-  def artist=(artist)
-    @artist = artist
-  end
 end
